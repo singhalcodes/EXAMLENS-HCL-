@@ -1,0 +1,81 @@
+Student_ID,Name,Department,Subject,Marks,Attendance,Study_Hours,Assignment_Score,Exam_Type
+EX001,Ravi Kumar,CSE,Statistics,64.4,66.8,4.9,80.2,Endterm
+EX002,Ram Kishan,IT,Mathematics,51.6,72.5,2.2,49.9,Quiz
+EX003,Aman Sharma,AIML,Data Structures,57.1,91.1,3.6,56.3,Midterm
+EX004,Rahul Verma,DS,Physics,47.5,86.2,0.5,77.4,Endterm
+EX005,Rohit Singh,ECE,Mathematics,60.9,63.1,2.2,82.3,Quiz
+EX006,Mohit Gupta,CSE,Data Structures,89.6,94.6,4.1,72.4,Midterm
+EX007,Arjun Yadav,IT,Physics,87.8,82.3,5.9,32.5,Quiz
+EX008,Deepak Chauhan,AIML,Python,26.0,100.0,4.2,45.2,Midterm
+EX009,Vikas Mishra,DS,Statistics,73.5,100.0,4.2,40.4,Endterm
+EX010,Sachin Tyagi,ECE,Physics,56.7,100.0,2.1,90.9,Quiz
+EX011,Abhishek Pandey,CSE,Python,,74.6,3.9,69.3,Midterm
+EX012,Shivam Raj,IT,Statistics,70.7,98.4,4.8,49.7,Endterm
+EX013,Karan Malhotra,AIML,Mathematics,91.3,94.9,5.9,56.9,Quiz
+EX014,Nikhil Agarwal,DS,Data Structures,59.0,64.4,2.3,75.3,Endterm
+EX015,Saurabh Kumar,ECE,Statistics,55.6,56.8,3.4,88.4,Quiz
+EX016,Harsh Vardhan,CSE,Mathematics,48.5,82.9,2.6,88.2,Midterm
+EX017,Aditya Sharma,IT,Data Structures,41.5,72.2,0.5,75.8,Endterm
+EX018,Prashant Singh,AIML,Physics,69.2,64.2,2.1,86.4,Quiz
+EX019,Gaurav Saxena,DS,Python,53.5,100.0,1.7,98.4,Midterm
+EX020,Yash Thakur,ECE,Data Structures,65.1,89.4,3.2,90.7,Endterm
+EX021,Ayush Tiwari,CSE,Physics,73.1,53.1,4.1,100.0,Midterm
+EX022,Rishabh Jain,IT,Python,40.9,92.4,1.6,,Endterm
+EX023,Ankit Rawat,AIML,Statistics,44.0,75.3,1.9,82.3,Quiz
+EX024,Piyush Joshi,DS,Mathematics,88.9,82.0,4.7,86.8,Midterm
+EX025,Varun Mehta,ECE,Python,38.1,83.6,1.2,61.3,Endterm
+EX026,Mayank Bansal,CSE,Statistics,40.1,79.9,1.9,30.9,Quiz
+EX027,Manish Kumar,IT,Mathematics,54.7,75.8,3.5,48.2,Midterm
+EX028,Sumit Rathi,AIML,Data Structures,56.9,80.4,2.2,89.0,Quiz
+EX029,Tarun Sharma,DS,Physics,26.9,70.1,4.4,45.9,Midterm
+EX030,Priya Sharma,ECE,Mathematics,32.7,61.5,0.5,96.4,Endterm
+EX031,Neha Verma,CSE,Data Structures,61.7,97.9,2.4,70.5,Quiz
+EX032,Pooja Singh,IT,Physics,31.2,91.6,1.3,46.5,Midterm
+EX033,Anjali Gupta,AIML,Python,84.2,100.0,2.1,49.5,Endterm
+EX034,Riya Agarwal,DS,Statistics,99.0,83.4,3.1,54.3,Quiz
+EX035,Sneha Mishra,ECE,Physics,78.6,77.3,3.6,86.8,Endterm
+EX036,Aditi Yadav,CSE,Python,48.8,76.6,2.5,90.5,Quiz
+EX037,Sakshi Chauhan,IT,Statistics,87.4,86.7,5.7,70.6,Midterm
+EX038,Kavya Jain,AIML,Mathematics,91.2,,4.4,54.3,Endterm
+EX039,Nidhi Kumar,DS,Data Structures,67.7,57.6,4.1,59.0,Quiz
+EX040,Shreya Saxena,ECE,Statistics,86.8,88.1,5.9,57.1,Midterm
+EX041,Simran Kaur,CSE,Mathematics,39.0,53.8,0.7,75.8,Endterm
+EX042,Muskan Tyagi,IT,Data Structures,66.0,76.1,2.9,87.7,Midterm
+EX043,Divya Pandey,AIML,Physics,55.8,82.1,3.8,56.3,Endterm
+EX044,Isha Mehta,DS,Python,65.4,82.0,2.7,100.0,Quiz
+EX045,Kritika Bansal,ECE,Data Structures,45.4,79.7,1.1,76.5,Midterm
+EX046,Tanya Joshi,CSE,Physics,92.0,100.0,4.8,88.8,Endterm
+EX047,Mansi Rawat,IT,Python,42.0,67.9,4.0,79.1,Quiz
+EX048,Ritika Sharma,AIML,Statistics,46.2,81.5,3.4,75.7,Midterm
+EX049,Khushi Singh,DS,Mathematics,89.1,78.5,4.1,80.8,Quiz
+EX050,Swati Mishra,ECE,Python,96.9,100.0,5.4,87.4,Midterm
+EX051,Ananya Gupta,CSE,Statistics,70.0,74.2,0.9,72.5,Endterm
+EX052,Pallavi Thakur,IT,Mathematics,93.8,95.4,4.0,65.3,Quiz
+EX053,Mehak Arora,AIML,Data Structures,35.3,89.6,2.3,44.6,Midterm
+EX054,Aarushi Verma,DS,Physics,30.2,84.0,1.4,43.6,Endterm
+EX055,Vanshika Agarwal,ECE,Mathematics,42.4,81.2,2.8,68.8,Quiz
+EX056,Komal Rathi,CSE,Data Structures,57.4,89.8,1.7,65.8,Endterm
+EX057,Shraddha Tiwari,IT,Physics,73.6,100.0,3.8,66.7,Quiz
+EX058,Bhavna Raj,AIML,Python,99.0,88.7,6.4,94.8,Midterm
+EX059,Tanisha Kapoor,DS,Statistics,66.4,95.1,3.3,71.3,Endterm
+EX060,Aarav Patel,ECE,Physics,67.1,68.0,6.8,65.5,Quiz
+EX061,Ishita Rao,CSE,Python,68.7,84.9,5.2,76.1,Midterm
+EX062,Kabir Saini,IT,Statistics,56.8,75.3,2.8,57.2,Endterm
+EX063,Nandini Das,AIML,Mathematics,69.5,94.9,5.3,82.2,Midterm
+EX064,Devendra Joshi,DS,Data Structures,65.3,74.4,5.5,42.0,Endterm
+EX065,Prerna Nair,ECE,Statistics,99.0,77.1,,56.5,Quiz
+EX066,Rohan Bhatia,CSE,Mathematics,58.2,93.1,2.9,53.3,Midterm
+EX067,Chhavi Kulkarni,IT,Data Structures,81.7,70.7,5.7,72.0,Endterm
+EX068,Uday Pratap,AIML,Physics,34.4,93.0,0.5,43.1,Quiz
+EX069,Sanya Kapoor,DS,Python,96.6,100.0,5.1,62.6,Midterm
+EX070,Vivek Pandit,ECE,Data Structures,37.0,69.5,1.8,62.6,Quiz
+EX071,Madhuri Desai,CSE,Physics,72.5,95.4,3.2,89.8,Midterm
+EX072,Anmol Sood,IT,Python,23.8,70.4,4.6,100.0,Endterm
+EX073,Jyoti Rawat,AIML,Statistics,51.2,87.4,3.0,97.6,Quiz
+EX074,Kunal Saxena,DS,Mathematics,63.8,78.0,5.2,68.2,Midterm
+EX075,Deepa Menon,ECE,Python,68.6,68.3,3.7,81.8,Endterm
+EX076,Rajat Khanna,CSE,Statistics,79.3,85.9,4.9,52.5,Quiz
+EX077,Rachna Sharma,IT,Mathematics,50.5,70.6,3.4,51.1,Endterm
+EX078,Nitin Goyal,AIML,Data Structures,89.4,72.8,5.1,65.4,Quiz
+EX079,Naveen Reddy,CSE,Python,76.0,88.0,4.2,79.0,Endterm
+EX080,Priti Chawla,ECE,Mathematics,43.0,71.0,2.1,48.0,Midterm
